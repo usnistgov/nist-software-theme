@@ -1,0 +1,13 @@
+title: "NIST Software Portal Theme for Jekyll"
+author: "Gretchen Greene <gretchen.greene@nist.gov>"
+description: "NIST Software Portal Jekyll Template"
+
+# Correct linking GitHub Project pages
+# Note leading slash in baseurl
+githubrepo: jekyll-nist-software-theme
+baseurl: /jekyll-nist-software-theme
+
+permalink: pretty
+
+kramdown:
+  auto_ids: true
