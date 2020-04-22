@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "nist-software-theme"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["ODI"]
   spec.email         = ["gretchen.greene@nist.gov"]
 
