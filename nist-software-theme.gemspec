@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "nist-software-theme"
-  spec.version       = "0.1.1"
-  spec.authors       = ["ODI"]
-  spec.email         = ["gretchen.greene@nist.gov"]
+  spec.version       = "0.1.2"
+  spec.authors       = ["Faical Yannick P. Congo"]
+  spec.email         = ["faical.congo@nist.gov"]
 
   spec.summary       = %q{NIST Software Portal Template and Gem}
   spec.homepage      = "https://github.com/usnistgov/software/nist-software-theme"
