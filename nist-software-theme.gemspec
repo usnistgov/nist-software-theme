@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "nist-software-theme"
-  spec.version       = "0.1.3"
+  spec.version       = "0.14"
   spec.authors       = ["Faical Yannick P. Congo"]
   spec.email         = ["faical.congo@nist.gov"]
 
