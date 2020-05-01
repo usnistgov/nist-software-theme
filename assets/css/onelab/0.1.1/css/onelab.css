@@ -103,7 +103,7 @@
 	padding-top:7px;
 }
 #nist-menu-tab {
-	background: url("../images/nist-tab.png") no-repeat top center;
+	background: url("https://data.nist.gov/sdp/assets/images/nist_logo_reverse.png") no-repeat top center;
 	-webkit-border-radius: 0 0 4px 4px;
 	-moz-border-radius: 0 0 4px 4px;
 	border-radius: 0 0 4px 4px;
@@ -588,11 +588,17 @@ span.showto {
 /*	Footer Unit -> Slim
 -------------------------------------------------------------------*/
 #footer-slim.footer {
-	margin-bottom: 1.5em;
+	/* margin-bottom: 1.5em; */
+	background-color: black
+
+}
+#footer-slim.footer img{
+	width: 300px;
+
 }
 #footer-slim.footer p {
 	font-size:10px;
-	color:#666666;
+	color:white;
 	line-height:15px;
 	float:left;
 	margin-right:17px;
