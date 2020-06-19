@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "nist-software-theme"
-  spec.version       = "0.17"
+  spec.version       = "0.19"
   spec.authors       = ["Faical Yannick P. Congo"]
   spec.email         = ["faical.congo@nist.gov"]
 
   spec.summary       = %q{NIST Software Portal Template and Gem}
-  spec.homepage      = "https://github.com/usnistgov/software/nist-software-theme"
+  spec.homepage      = "https://github.com/usnistgov/nist-software-theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
